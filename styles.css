@@ -8,7 +8,7 @@ body{font-size:40pt;background-image:url("http://shp.qpic.cn/collector/219982596
 #codeb{color:#009688;}
 #codec{color:#AB47BC;}
 .nounderline{font-size:30pt;}
-#mydata{background-color:#fff;text-align:center;border-radius:10px;box-shadow:#000 0px 0px 0px 1px;padding:2%;margin:3%;margin-top:0px;}
+#mydata{background:rgba(255,255,255,0.5);text-align:center;border-radius:10px;box-shadow:#000 0px 0px 0px 1px;padding:2%;margin:3%;margin-top:0px;}
 #coolapk{width:10%;height:10%;text-align:left;}
 #mydata-a{font-size:20pt;text-align:left;}
 #myapp{background:rgba(255,255,255,0.5);border-radius:10px;box-shadow:#000 0px 0px 0px 1px;padding:2%;margin:3%;}
